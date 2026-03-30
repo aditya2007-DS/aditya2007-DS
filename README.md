@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya
 
-🎯 Aspiring Data Scientist from India 🇮🇳
+🎯 Aspiring Data Scientist
 💡 Passionate about turning data into insights
 📚 Currently learning Python, Data Analysis & Machine Learning
 
@@ -49,7 +49,3 @@
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/aditya2007-DS
-
----
-
-🔥 “Consistency beats talent when talent doesn’t work hard.”
