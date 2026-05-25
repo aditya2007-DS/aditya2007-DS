@@ -38,10 +38,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya2007-DS&layout=compact&langs_count=2&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/aditya2007-DS/aditya2007-DS/blob/output/github-contribution-grid-snake-dark.svg)
-
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=aditya2007-DS&theme=radical&no-frame=true&margin-w=10)
