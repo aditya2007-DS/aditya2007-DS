@@ -32,13 +32,11 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api?username=aditya2007-DS&theme=tokyonight&show_icons=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=aditya2007-DS&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya2007-DS&theme=tokyonight&layout=compact&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya2007-DS&layout=compact&theme=tokyonight&hide_border=true&langs_count=2&hide=html,css,javascript"/>
+</p>
 
 # 📊 Most Used Languages
 
