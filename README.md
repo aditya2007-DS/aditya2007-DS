@@ -32,11 +32,9 @@
 
 ---
 
-# 📊 Most Used Languages
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya2007-DS&layout=compact&langs_count=2&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</p>
+![Snake animation](https://github.com/aditya2007-DS/aditya2007-DS/blob/output/github-contribution-grid-snake.svg)
 
 # 🏆 GitHub Trophies
 
