@@ -35,12 +35,6 @@
 # 📊 Most Used Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya2007-DS&layout=compact&theme=tokyonight&hide_border=true&langs_count=2&hide=html,css,javascript"/>
-</p>
-
-# 📊 Most Used Languages
-
-<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya2007-DS&layout=compact&langs_count=2&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
