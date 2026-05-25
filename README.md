@@ -21,6 +21,7 @@
 * 📊 Pandas, NumPy
 * 📈 Matplotlib, Seaborn
 * 🤖 Basics of Machine Learning
+* 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
