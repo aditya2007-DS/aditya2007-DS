@@ -38,10 +38,6 @@
 
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aditya2007-DS\&show_icons=true\&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=aditya2007-DS\&theme=tokyonight)
-
 ![](https://github-readme-stats.vercel.app/api?username=aditya2007-DS&theme=tokyonight&show_icons=true&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aditya2007-DS&theme=tokyonight&hide_border=true)
