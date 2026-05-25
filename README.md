@@ -15,17 +15,18 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-* 💻 Python
-* 📊 Pandas, NumPy
-* 📈 Matplotlib, Seaborn
-* 🤖 Basics of Machine Learning
-* 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
 
@@ -35,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=aditya2007-DS\&show_icons=true\&theme=tokyonight)
 
