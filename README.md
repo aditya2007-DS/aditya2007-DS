@@ -40,8 +40,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=aditya2007-DS&theme=radical&no-frame=true&margin-w=10)
 
-S)
-
 ---
 
 ## 📁 Featured Projects
