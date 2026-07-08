@@ -40,9 +40,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=aditya2007-DS&theme=radical&no-frame=true&margin-w=10)
 
-# 📊 Contribution Graph
-
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditya2007-DS&theme=tokyo-night)](https://github.com/aditya2007-DS)
+S)
 
 ---
 
